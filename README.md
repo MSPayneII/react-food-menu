@@ -4,14 +4,14 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
-  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/8a89b298-ed28-48fc-955e-0451f1c31565/deploy-status" />
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/499ade93-e2a8-4f56-89f0-c2bb0eca3226/deploy-status" />
 </p>
 
 ## Reason for choosing this project:
 
 This was a hands-on React project provided by the John Smilga as part of his Udemy React Tutorial and Projects Course. This project was designed to help students become familiar with the useState and React in general.
 
-### 🏠 [Homepage](https://mpayne-react-food-menu.netlify.app/)
+### 🏠 [Homepage](https://mpayne-react-foodmenu.netlify.app/)
 
 ## Functionality:
 
